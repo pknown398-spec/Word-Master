@@ -1,0 +1,8 @@
+{
+  "name": "Name Place Animal Thing",
+  "description": "Online multiplayer room-based Name, Place, Animal, Thing word game with turn-based random alphabets, 10-second Stop countdowns, and automatic unique/shared scoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
